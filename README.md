@@ -7,5 +7,11 @@ Sentrin.
 
 
 \\\\edit 2
+<<<<<<< Updated upstream
+=======
+
+// second programmits
+
+>>>>>>> Stashed changes
 
 //programmits 2
